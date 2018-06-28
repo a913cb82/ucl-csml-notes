@@ -1,6 +1,6 @@
 # UCL MSc Computational Statistics and Machine Learning
 
-Here are my revision notes for this degree. Understanding and learning these summary notes alone got me a distinction in my exams, so hopefully they're mostly correct and somewhat thorough. These notes are definitely not perfect and messily hand written, but maybe someone will find something useful.
+Here are my revision notes for this degree, hopefully they're mostly correct and somewhat thorough. These notes are definitely not perfect and messily hand written, but maybe someone will find something useful.
 
 ### Structure
 The general structure of my notes is *Overview*, *Summary*, *Notes* (each more detailed than the previous). Some modules may be missing the overview and/or summary if I decided it wasn't necessary.
